@@ -4,6 +4,10 @@ The following page lists cyclists who have lost their lives on UK roads in 2021
 
 ### January
 
-| Chronology | Date of collision | Date of fatality | Name of cyclist | Age of cyclist | Involved vehicle type | News report | Notes |
-|:----------:|-------------------|------------------|-----------------|----------------|-----------------------|-------------|-------|
-|1           | Placeholder       |                  |                 |                |                       |             |       |
+| Chronology | Date of collision | Date of fatality | Name of cyclist | Age of cyclist | Gender | Region |Involved vehicle type | News report | Notes |
+|:----------:|:-----------------:|:----------------:|:----------------|:--------------:|:------:|:-------|:--------------------:|:------------|:------|
+| 1          | 14/01/2021        | 14/01/2021       | Luke Steven Clifford Townsley | 29 | M      | Somerset | SUV                | [Report](https://www.somersetcountygazette.co.uk/news/19043203.luke-steven-clifford-townsley-taunton-died-kingston-st-mary-crash/) |       |
+| 2          | 15/01/2021        | 15/01/2021       |                 | 60             | M      | Aberdeenshire | N/A                | [Report](https://www.eveningexpress.co.uk/news/scotland/cyclist-dies-after-becoming-unwell-in-aberdeenshire/) | Medical episode |
+| 3          | 16/01/2021        | ?                | Luke McNicholas | 21             | M      | Isle of Man | Car                | [Report](https://www.bbc.co.uk/news/world-europe-isle-of-man-55699054) |       |
+| 4          | 19/01/2021        | 19/01/2021       |                 |                | M      | London | Lorry                | [Report](https://www.mylondon.news/news/east-london-news/cyclist-dies-after-being-hit-19663597) |       |
+| 5          | 22/01/2021        | 22/01/2021       |                 | 88             | M      | Stirlingshire | Car                | [Report](https://www.dailyrecord.co.uk/news/scottish-news/cyclist-88-dies-after-horror-23379929) |       |
