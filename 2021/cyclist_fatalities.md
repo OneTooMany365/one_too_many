@@ -11,3 +11,10 @@ The following page lists cyclists who have lost their lives on UK roads in 2021
 | 3          | 16/01/2021        | ?                | Luke McNicholas | 21             | M      | Isle of Man | Car                | [Report](https://www.bbc.co.uk/news/world-europe-isle-of-man-55699054) |       |
 | 4          | 19/01/2021        | 19/01/2021       |                 |                | M      | London | Lorry                | [Report](https://www.mylondon.news/news/east-london-news/cyclist-dies-after-being-hit-19663597) |       |
 | 5          | 22/01/2021        | 22/01/2021       |                 | 88             | M      | Stirlingshire | Car                | [Report](https://www.dailyrecord.co.uk/news/scottish-news/cyclist-88-dies-after-horror-23379929) |       |
+
+
+### February
+
+| Chronology | Date of collision | Date of fatality | Name of cyclist | Age of cyclist | Gender | Region |Involved vehicle type | News report | Notes |
+|:----------:|:-----------------:|:----------------:|:----------------|:--------------:|:------:|:-------|:--------------------:|:------------|:------|
+| 6          | 01/02/2021        | 01/02/2021       | David McQuillan | 70.            | M      | Lancashire | Fell                | [Report](https://www.lep.co.uk/news/tributes-popular-pendle-cyclist-70-who-tragically-died-after-fall-bike-3121163) | Possible Van was involved in collision |
