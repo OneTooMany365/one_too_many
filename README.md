@@ -14,4 +14,4 @@ I am hoping this page can be kept up-to-date by everyone within the community, s
 
 ## Pages
 
-- [2021](one_too_many/2021/cyclist_fatalities.md)
+- [2021](2021/cyclist_fatalities.md)
