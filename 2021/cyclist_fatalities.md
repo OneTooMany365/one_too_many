@@ -18,4 +18,5 @@ The following page lists cyclists who have lost their lives on UK roads in 2021
 
 | Chronology | Date of collision | Date of fatality | Name of cyclist | Age of cyclist | Gender | Region |Involved vehicle type | News report | Notes |
 |:----------:|:-----------------:|:----------------:|:----------------|:--------------:|:------:|:-------|:--------------------:|:------------|:------|
-| 7          | 01/02/2021        | 01/02/2021       | David McQuillan | 70.            | M      | Lancashire | Fell             | [Report](https://www.lep.co.uk/news/tributes-popular-pendle-cyclist-70-who-tragically-died-after-fall-bike-3121163) | Possible Van was involved in collision |
+| 7          | 01/02/2021        | 01/02/2021       | David McQuillan | 70             | M      | Lancashire | Fell             | [Report](https://www.lep.co.uk/news/tributes-popular-pendle-cyclist-70-who-tragically-died-after-fall-bike-3121163) | Possible Van was involved in collision |
+| 8          | 03/02/2021        | 04/02/2021       |                 | 69             | F      | Leicestershire | Van          | [Report](https://www.bbc.co.uk/news/uk-england-leicestershire-55928738) |      |
