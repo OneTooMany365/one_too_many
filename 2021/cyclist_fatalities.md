@@ -12,8 +12,8 @@ The following page lists cyclists who have lost their lives on UK roads in 2021
 | 4          | 15/01/2021        | 15/01/2021       | Kevin Young     | 60             | M      | Aberdeenshire | N/A                | [Report](https://www.eveningexpress.co.uk/news/scotland/cyclist-dies-after-becoming-unwell-in-aberdeenshire/) | Medical episode |
 | 5          | 16/01/2021        | ?                | Luke McNicholas | 21             | M      | Isle of Man | Car                | [Report](https://www.bbc.co.uk/news/world-europe-isle-of-man-55699054) |       |
 | 6          | 19/01/2021        | 19/01/2021       |                 |                | M      | London | Lorry                | [Report](https://www.mylondon.news/news/east-london-news/cyclist-dies-after-being-hit-19663597) |       |
-| 7          | 21/01/2021        | 21/01/2021       | Jeremy Richardson | 71            | M      | Cumbria | N/A                | [Report](https://cumbriacrack.com/2021/02/02/tributes-to-cyclist-killed-near-wigton-in-crash/) |       |
-| 8          | 22/01/2021        | 22/01/2021       |                 | 88             | M      | Stirlingshire | Car           | [Report](https://www.dailyrecord.co.uk/news/scottish-news/cyclist-88-dies-after-horror-23379929) | Solo crash |
+| 7          | 21/01/2021        | 21/01/2021       | Jeremy Richardson | 71            | M      | Cumbria | N/A                | [Report](https://cumbriacrack.com/2021/02/02/tributes-to-cyclist-killed-near-wigton-in-crash/) | Solo crash |
+| 8          | 22/01/2021        | 22/01/2021       |                 | 88             | M      | Stirlingshire | Car           | [Report](https://www.dailyrecord.co.uk/news/scottish-news/cyclist-88-dies-after-horror-23379929) |      |
 
 
 ### February
