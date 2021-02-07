@@ -22,3 +22,4 @@ The following page lists cyclists who have lost their lives on UK roads in 2021
 | 8          | 03/02/2021        | 04/02/2021       |                 | 69             | F      | Leicestershire | Van          | [Report](https://www.bbc.co.uk/news/uk-england-leicestershire-55928738) |      |
 
 https://www.kentlive.news/news/kent-news/teenager-riding-bmx-bike-died-4894954.amp
+https://www.romfordrecorder.co.uk/news/traffic/man-killed-in-rainham-collision-6904096
