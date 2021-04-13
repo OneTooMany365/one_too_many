@@ -41,3 +41,12 @@ The following page lists cyclists who have lost their lives on UK roads in 2021
 | 22         | 29/03/2021        | 29/03/2021       |                 | 30s           | F      | East Sussex | Tipper truck     | [Report](https://www.theargus.co.uk/news/19200929.cyclist-dies-hit-truck-b2188-near-groombridge) |       |
 | 23         | 30/03/2021        | 31/03/2021       |                 | 50s           | F       | London | Car                  | [Report](https://www.getsurrey.co.uk/news/surrey-news/woman-50s-dies-hospital-after-20300905) |       |
 | 24         | 31/03/2021        | 31/03/2021       |                 | 37            | M      | Gwent   | Car                  | [Report](https://www.walesonline.co.uk/news/wales-news/newport-accident-crash-cyclist-fatal-20293781) | Hit and run, driver arrested - Dangerous Driving. |
+
+### April
+
+| Chronology | Date of collision | Date of fatality | Name of cyclist | Age of cyclist | Gender | Region |Involved vehicle type | News report | Notes |
+|:----------:|:-----------------:|:----------------:|:----------------|:--------------:|:------:|:-------|:--------------------:|:------------|:------|
+| 25         | 04/04/2021        | 04/04/2021       |                 | 50s            | M      | Oxfordshire | N/A             | [Report](https://www.oxfordmail.co.uk/news/19212553.cyclist-died-crashing-tree/) | Crash into tree |
+| 26         | 07/04/2021        | 07/04/2021       |                 | 40s            | M      | Somerset | Car                | [Report](https://www.somersetlive.co.uk/news/somerset-news/a39-crash-cyclist-dies-driver-5271912) | Driver arrested |
+| 27         | 08/04/2021        | 08/04/2021       |                 | 15             | M      | East Yorkshire | Car   | [Report](https://www.yorkpress.co.uk/news/19222796.cyclist-dies-crash-car-east-yorkshire/) |       |
+| 28         | 11/04/2021        | 11/04/2021       | Helen Renton    | 44             | F      | Dumfries and Galloway | Van   | [Report](https://www.scotsman.com/news/dumfries-and-galloway-female-cyclist-44-dies-in-crash-with-van-on-rural-road-3197446) |       |
