@@ -52,4 +52,7 @@ The following page lists cyclists who have lost their lives on UK roads in 2021
 | 28         | 11/04/2021        | 11/04/2021       | Helen Renton    | 44             | F      | Dumfries and Galloway | Van   | [Report](https://www.scotsman.com/news/dumfries-and-galloway-female-cyclist-44-dies-in-crash-with-van-on-rural-road-3197446) |       |
 | 29         | 12/04/2021        | 12/04/2021       |                 | 60s            | M      | Suffolk | SUV                 | [Report](https://www.eadt.co.uk/news/cyclist-dead-after-collsion-with-car-7895648) |       |
 | 30         | 14/04/2021        | 14/04/2021       |                 |                | M      | Lincolnshire | N/A            | [Report](http://lincolnshirelive.co.uk/news/local-news/cyclist-riding-near-lincoln-dies-5300948) | Fell from bike. |
-| 31         | 17/04/2021        | 17/04/2021       |                 |                |        | Surrey | ??                  | [Report](https://www.getsurrey.co.uk/news/live-updates-after-cyclist-dies-20410482) | Found in road, unknown circumstances. |
+| 31         | 17/04/2021        | 17/04/2021       |                 |                |        | Surrey | ??                   | [Report](https://www.getsurrey.co.uk/news/live-updates-after-cyclist-dies-20410482) | Found in road, unknown circumstances. |
+| 32         | 26/04/2021        | 26/04/2021       |                 | 15             | M      | Merseyside | SUV              | [Report](https://www.wirralglobe.co.uk/news/19260975.manor-drive-upton-closed-serious-accident/) | Hit and Run. 22yo driver arrested |
+
+
