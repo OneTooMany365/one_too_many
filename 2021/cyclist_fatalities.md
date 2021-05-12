@@ -55,3 +55,11 @@ The following page lists cyclists who have lost their lives on UK roads in 2021
 | 31         | 17/04/2021        | 17/04/2021       |                 |                |        | Surrey | ??                   | [Report](https://www.getsurrey.co.uk/news/live-updates-after-cyclist-dies-20410482) | Found in road, unknown circumstances. |
 | 32         | 26/04/2021        | 26/04/2021       | Jack Jones      | 15             | M      | Merseyside | SUV              | [Report](https://www.wirralglobe.co.uk/news/19260975.manor-drive-upton-closed-serious-accident/) | Hit and Run. 22yo driver arrested |
 | 33         | 26/04/2021        | 26/04/2021       |                 | 50s            | M      | Essex  | N/A                  | [Report](https://www.echo-news.co.uk/news/19261614.canvey-cyclist-dies-suffering-serious-head-injuries/) | Head injuries after fall |
+
+
+### May
+
+| Chronology | Date of collision | Date of fatality | Name of cyclist | Age of cyclist | Gender | Region |Involved vehicle type | News report | Notes |
+|:----------:|:-----------------:|:----------------:|:----------------|:--------------:|:------:|:-------|:--------------------:|:------------|:------|
+| 34         | 06/05/2021        | 08/05/2021       | Duncan Jackson  | 56             | M      | Cumbria | N/A             | [Report](https://cumbriacrack.com/2021/05/12/cyclist-dies-after-falling-from-bike-in-maryport/) | Fell in road |
+| 35         | 02/05/2021        | 09/05/2021 ?     |                 | 50s            | M      | Norfolk | SUV                | [Report](https://www.edp24.co.uk/news/north-walsham-road-cyclist-dies-after-crash-7965372) |       |
