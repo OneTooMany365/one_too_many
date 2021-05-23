@@ -61,5 +61,7 @@ The following page lists cyclists who have lost their lives on UK roads in 2021
 
 | Chronology | Date of collision | Date of fatality | Name of cyclist | Age of cyclist | Gender | Region |Involved vehicle type | News report | Notes |
 |:----------:|:-----------------:|:----------------:|:----------------|:--------------:|:------:|:-------|:--------------------:|:------------|:------|
-| 34         | 06/05/2021        | 08/05/2021       | Duncan Jackson  | 56             | M      | Cumbria | N/A                 | [Report](https://cumbriacrack.com/2021/05/12/cyclist-dies-after-falling-from-bike-in-maryport/) | Fell in road |
-| 35         | 02/05/2021        | 09/05/2021       |                 | 50s            | M      | Norfolk | SUV                 | [Report](https://www.edp24.co.uk/news/north-walsham-road-cyclist-dies-after-crash-7965372) |       |
+| 34         | 02/05/2021        | 02/05/2021       | Andy Nixon      | 39             | M      | Angus  | N/A                  | [Report](https://www.thecourier.co.uk/fp/news/local/angus-mearns/2187238/he-lit-up-the-room-family-pay-tribute-to-cyclist-who-died-in-angus/) | Medical episode |
+| 35         | 06/05/2021        | 08/05/2021       | Duncan Jackson  | 56             | M      | Cumbria | N/A                 | [Report](https://cumbriacrack.com/2021/05/12/cyclist-dies-after-falling-from-bike-in-maryport/) | Fell in road |
+| 36         | 02/05/2021        | 09/05/2021       |                 | 50s            | M      | Norfolk | SUV                 | [Report](https://www.edp24.co.uk/news/north-walsham-road-cyclist-dies-after-crash-7965372) |       |
+| 37         | 13/05/2021        | 13/05/2021       |                 | 20s            | M      | Northumbria | Car             | [Report](https://www.chroniclelive.co.uk/news/north-east-news/cyclist-a19-sunderland-collision-police-20585604) |       |
