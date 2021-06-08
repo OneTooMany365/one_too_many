@@ -56,7 +56,6 @@ The following page lists cyclists who have lost their lives on UK roads in 2021
 | 32         | 26/04/2021        | 26/04/2021       | Jack Jones      | 15             | M      | Merseyside | SUV              | [Report](https://www.wirralglobe.co.uk/news/19260975.manor-drive-upton-closed-serious-accident/) | Hit and Run. 22yo driver arrested |
 | 33         | 26/04/2021        | 26/04/2021       |                 | 50s            | M      | Essex  | N/A                  | [Report](https://www.echo-news.co.uk/news/19261614.canvey-cyclist-dies-suffering-serious-head-injuries/) | Head injuries after fall |
 
-
 ### May
 
 | Chronology | Date of collision | Date of fatality | Name of cyclist | Age of cyclist | Gender | Region |Involved vehicle type | News report | Notes |
@@ -65,3 +64,19 @@ The following page lists cyclists who have lost their lives on UK roads in 2021
 | 35         | 06/05/2021        | 08/05/2021       | Duncan Jackson  | 56             | M      | Cumbria | N/A                 | [Report](https://cumbriacrack.com/2021/05/12/cyclist-dies-after-falling-from-bike-in-maryport/) | Fell in road |
 | 36         | 02/05/2021        | 09/05/2021       |                 | 50s            | M      | Norfolk | SUV                 | [Report](https://www.edp24.co.uk/news/north-walsham-road-cyclist-dies-after-crash-7965372) |       |
 | 37         | 13/05/2021        | 13/05/2021       |                 | 20s            | M      | Northumbria | Car             | [Report](https://www.chroniclelive.co.uk/news/north-east-news/cyclist-a19-sunderland-collision-police-20585604) |       |
+
+### June
+
+| Chronology | Date of collision | Date of fatality | Name of cyclist | Age of cyclist | Gender | Region |Involved vehicle type | News report | Notes |
+|:----------:|:-----------------:|:----------------:|:----------------|:--------------:|:------:|:-------|:--------------------:|:------------|:------|
+| 38         | 02/06/2021        | 02/06/2021       | Charlie Lewis   | 56             | M      | Greater Manchester | Car      | [Report](https://www.manchestereveningnews.co.uk/news/greater-manchester-news/breaking-cyclist-dies-tragic-crash-20723635) | Driver arrested. Fatality occurred in area criticised for widening road and not providing facilities for cyclists. |
+| 39         | 02/06/2021        | 02/06/2021       |                 | 31             | M      | Kent   | N/A                  | [Report](https://www.kentonline.co.uk/ashford/news/cyclist-killed-in-crash-248535/) | Solo crash on e-bike |
+| 40         | 05/06/2021        | 05/06/2021       |                 | 44             | M      | Yorkshire | ??                | [Report](https://www.doncasterfreepress.co.uk/news/cyclist-dies-after-horrific-incident-on-one-of-main-roads-into-doncaster-3263699) | No mention of vehicle, but "horrific accident" suggests vehicle involved. |
+| 41         | 05/06/2021        | 05/06/2021       | Jay Gallacher   | 15             | M      | North Lanarkshire | Bus       | [Report](https://www.standard.co.uk/news/uk/teenage-boy-dies-collision-bus-cycling-b939007.html) |       |
+
+
+
+
+
+
+
