@@ -63,20 +63,15 @@ The following page lists cyclists who have lost their lives on UK roads in 2021
 | 34         | 02/05/2021        | 02/05/2021       | Andy Nixon      | 39             | M      | Angus  | N/A                  | [Report](https://www.thecourier.co.uk/fp/news/local/angus-mearns/2187238/he-lit-up-the-room-family-pay-tribute-to-cyclist-who-died-in-angus/) | Medical episode |
 | 35         | 06/05/2021        | 08/05/2021       | Duncan Jackson  | 56             | M      | Cumbria | N/A                 | [Report](https://cumbriacrack.com/2021/05/12/cyclist-dies-after-falling-from-bike-in-maryport/) | Fell in road |
 | 36         | 02/05/2021        | 09/05/2021       |                 | 50s            | M      | Norfolk | SUV                 | [Report](https://www.edp24.co.uk/news/north-walsham-road-cyclist-dies-after-crash-7965372) |       |
-| 37         | 13/05/2021        | 13/05/2021       |                 | 20s            | M      | Northumbria | Car             | [Report](https://www.chroniclelive.co.uk/news/north-east-news/cyclist-a19-sunderland-collision-police-20585604) |       |
+| 37         | 13/05/2021        | 13/05/2021       | Paul James Avon Oxberry | 26     | M      | Northumbria | Car             | [Report](https://www.chroniclelive.co.uk/news/north-east-news/cyclist-a19-sunderland-collision-police-20585604) |       |
+| 38         | 30/05/2021        | 30/05/2021       |                 | 73             | M      | Derbyshire | SUV              | [Report](https://www.derbytelegraph.co.uk/news/derby-news/cyclist-killed-collision-bmw-derby-5476025) |       |
 
 ### June
 
 | Chronology | Date of collision | Date of fatality | Name of cyclist | Age of cyclist | Gender | Region |Involved vehicle type | News report | Notes |
 |:----------:|:-----------------:|:----------------:|:----------------|:--------------:|:------:|:-------|:--------------------:|:------------|:------|
-| 38         | 02/06/2021        | 02/06/2021       | Charlie Lewis   | 56             | M      | Greater Manchester | Car      | [Report](https://www.manchestereveningnews.co.uk/news/greater-manchester-news/breaking-cyclist-dies-tragic-crash-20723635) | Driver arrested. Fatality occurred in area criticised for widening road and not providing facilities for cyclists. |
-| 39         | 02/06/2021        | 02/06/2021       |                 | 31             | M      | Kent   | N/A                  | [Report](https://www.kentonline.co.uk/ashford/news/cyclist-killed-in-crash-248535/) | Solo crash on e-bike |
-| 40         | 05/06/2021        | 05/06/2021       |                 | 44             | M      | Yorkshire | ??                | [Report](https://www.doncasterfreepress.co.uk/news/cyclist-dies-after-horrific-incident-on-one-of-main-roads-into-doncaster-3263699) | No mention of vehicle, but "horrific accident" suggests vehicle involved. |
-| 41         | 05/06/2021        | 05/06/2021       | Jay Gallacher   | 15             | M      | North Lanarkshire | Bus       | [Report](https://www.standard.co.uk/news/uk/teenage-boy-dies-collision-bus-cycling-b939007.html) |       |
-
-
-
-
-
-
-
+| 39         | 02/06/2021        | 02/06/2021       | Charlie Lewis   | 56             | M      | Greater Manchester | Car      | [Report](https://www.manchestereveningnews.co.uk/news/greater-manchester-news/breaking-cyclist-dies-tragic-crash-20723635) | Driver arrested. Fatality occurred in area criticised for widening road and not providing facilities for cyclists. |
+| 40         | 02/06/2021        | 02/06/2021       |                 | 31             | M      | Kent   | N/A                  | [Report](https://www.kentonline.co.uk/ashford/news/cyclist-killed-in-crash-248535/) | Solo crash on e-bike |
+| 41         | 04/06/2021        | 04/06/2021       |                 | 70s            | M      | Devon  | Car                  | [Report](https://www.devonlive.com/news/devon-news/man-arrested-after-elderly-cyclist-5498046) | Driver arrested |
+| 42         | 05/06/2021        | 05/06/2021       |                 | 44             | M      | Nottinghamshire | ??          | [Report](https://www.doncasterfreepress.co.uk/news/cyclist-dies-after-horrific-incident-on-one-of-main-roads-into-doncaster-3263699) | No mention of vehicle, but "horrific accident" suggests vehicle involved. |
+| 43         | 05/06/2021        | 05/06/2021       | Jay Gallacher   | 15             | M      | North Lanarkshire | Bus       | [Report](https://www.standard.co.uk/news/uk/teenage-boy-dies-collision-bus-cycling-b939007.html) |       |
