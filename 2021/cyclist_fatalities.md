@@ -76,10 +76,8 @@ The following page lists cyclists who have lost their lives on UK roads in 2021
 | 42         | 05/06/2021        | 05/06/2021       |                 | 44             | M      | Nottinghamshire | ??          | [Report](https://www.doncasterfreepress.co.uk/news/cyclist-dies-after-horrific-incident-on-one-of-main-roads-into-doncaster-3263699) | No mention of vehicle, but "horrific accident" suggests vehicle involved. |
 | 43         | 05/06/2021        | 05/06/2021       | Jay Gallacher   | 15             | M      | North Lanarkshire | Bus       | [Report](https://www.standard.co.uk/news/uk/teenage-boy-dies-collision-bus-cycling-b939007.html) |       |
 | 44         | 08/06/2021        | 09/06/2021       | Mohammed Ali Minhas | 18         | M      | Lancashire | N/A              | [Report](https://www.lancs.live/news/lancashire-news/teenage-cyclist-dies-injuries-hospital-20782653) | Crashed into wall |
-
-
-|            | 13/06/2021        | 13/06/2021       |                  | 45            | M      | Oxfordshire | Van             | [Report](https://www.oxfordmail.co.uk/news/19371952.driver-arrested-cyclist-dies-crash-near-henley/) | Driver arrested |
-|            | 08/06/2021        | 16/06/2021       |                  | 59            | M      | Hampshire | Car               | [Report](https://www.bbc.co.uk/news/uk-england-hampshire-57558316) |       |
-|            | 18/06/2021        | 18/06/2021       |                  | 39            | M      | Nottinghamshire | ??          | [Report](https://www.nottinghampost.com/news/nottingham-news/cyclist-dies-head-injuries-after-5573650) | Found in road, suspect hit and run |
-
-|            | 08/06/2021        | 16/06/2021       |                  | 59            | M      | Hampshire | Car               | [Report](https://www.oxfordmail.co.uk/news/19371952.driver-arrested-cyclist-dies-crash-near-henley/) |       |
+| 45         | 10/06/2021        | 13/06/2021       |                  | 24            | M      | Leicestershire | N/A          | [Report](https://www.leicestermercury.co.uk/news/leicester-news/cyclist-dies-hours-after-suffering-5528470) | Fell from bike |
+| 46         | 13/06/2021        | 13/06/2021       |                  | 45            | M      | Oxfordshire | Van             | [Report](https://www.oxfordmail.co.uk/news/19371952.driver-arrested-cyclist-dies-crash-near-henley/) | Driver arrested |
+| 47         | 08/06/2021        | 16/06/2021       |                  | 59            | M      | Hampshire | Car               | [Report](https://www.bbc.co.uk/news/uk-england-hampshire-57558316) |       |
+| 48         | 18/06/2021        | 18/06/2021       |                  | 39            | M      | Nottinghamshire | ??          | [Report](https://www.nottinghampost.com/news/nottingham-news/cyclist-dies-head-injuries-after-5573650) | Found in road, suspect hit and run |
+| 49         | 18/06/2021        | 18/06/2021       |                  | 70s           | M      | Warwickshire | HGV            | [Report](https://www.coventrytelegraph.net/news/coventry-news/touching-floral-tributes-cyclist-killed-20859041) | Driver arrested |
