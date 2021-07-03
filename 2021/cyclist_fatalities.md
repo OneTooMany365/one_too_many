@@ -88,6 +88,5 @@ The following page lists cyclists who have lost their lives on UK roads in 2021
 
 | Chronology | Date of collision | Date of fatality | Name of cyclist | Age of cyclist | Gender | Region |Involved vehicle type | News report | Notes |
 |:----------:|:-----------------:|:----------------:|:----------------|:--------------:|:------:|:-------|:--------------------:|:------------|:------|
-| 52         | 01/07/2021        | 01/07/2021       |                 | 70             | M      | East Sussex | (HGV)           | [Report]
-(https://www.theargus.co.uk/news/19413391.cyclist-70-dies-hitting-broken-lorry-a22/) | Cyclist rode into back of broken down lorry |
+| 52         | 01/07/2021        | 01/07/2021       |                 | 70             | M      | East Sussex | (HGV)           | [Report](https://www.theargus.co.uk/news/19413391.cyclist-70-dies-hitting-broken-lorry-a22/) | Cyclist rode into broken down lorry |
 | 53         | 01/07/2021        | 01/07/2021       |                 | 40s            | M      | Lancashire | Car              | [Report](https://www.theboltonnews.co.uk/news/19416032.police-appeal-cyclist-40s-dies-horwich-collision/) | Driver arrested - Disqualified driving |
