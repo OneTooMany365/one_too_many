@@ -81,4 +81,13 @@ The following page lists cyclists who have lost their lives on UK roads in 2021
 | 47         | 08/06/2021        | 16/06/2021       | David Davenport  | 59            | M      | Hampshire | Car               | [Report](https://www.bbc.co.uk/news/uk-england-hampshire-57558316) |       |
 | 48         | 18/06/2021        | 18/06/2021       |                  | 39            | M      | Nottinghamshire | ??          | [Report](https://www.nottinghampost.com/news/nottingham-news/cyclist-dies-head-injuries-after-5573650) | Found in road, suspect hit and run |
 | 49         | 18/06/2021        | 18/06/2021       |                  | 70s           | M      | Warwickshire | HGV            | [Report](https://www.coventrytelegraph.net/news/coventry-news/touching-floral-tributes-cyclist-killed-20859041) | Driver arrested |
-| 50         | 26/06/2021        | 26/06/2021       |                  | ??            | M      | East Yorkshire | SUV          | [Report](https://www.hulldailymail.co.uk/news/hull-east-yorkshire-news/cottage-owner-awakes-find-drink-5580264) | Driver arrested |
+| 50         | 03/06/2021        | 26/06/2021       | Stephen Fulker   | 66            | M      | East Sussex | (Car)           | [Report](https://www.brightonandhovenews.org/2021/07/02/cyclist-dies-after-crashing-into-parked-car-in-brighton/) | Cyclist rode into parked car |
+| 51         | 26/06/2021        | 26/06/2021       |                  | ??            | M      | East Yorkshire | SUV          | [Report](https://www.hulldailymail.co.uk/news/hull-east-yorkshire-news/cottage-owner-awakes-find-drink-5580264) | Driver arrested |
+
+### July
+
+| Chronology | Date of collision | Date of fatality | Name of cyclist | Age of cyclist | Gender | Region |Involved vehicle type | News report | Notes |
+|:----------:|:-----------------:|:----------------:|:----------------|:--------------:|:------:|:-------|:--------------------:|:------------|:------|
+| 52         | 01/07/2021        | 01/07/2021       |                 | 70             | M      | East Sussex | (HGV)           | [Report]
+(https://www.theargus.co.uk/news/19413391.cyclist-70-dies-hitting-broken-lorry-a22/) | Cyclist rode into back of broken down lorry |
+| 53         | 01/07/2021        | 01/07/2021       |                 | 40s            | M      | Lancashire | Car              | [Report](https://www.theboltonnews.co.uk/news/19416032.police-appeal-cyclist-40s-dies-horwich-collision/) | Driver arrested - Disqualified driving |
