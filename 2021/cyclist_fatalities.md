@@ -106,3 +106,7 @@ The following page lists cyclists who have lost their lives on UK roads in 2021
 | Chronology | Date of collision | Date of fatality | Name of cyclist | Age of cyclist | Gender | Region |Involved vehicle type | News report | Notes |
 |:----------:|:-----------------:|:----------------:|:----------------|:--------------:|:------:|:-------|:--------------------:|:------------|:------|
 | 63         | 03/08/2021        | 03/08/2021       |                 | 80             | M      | Cumbria | Van                 | [Report](https://www.bbc.co.uk/news/uk-england-cumbria-58080253) |       |
+| 64         | 04/08/2021        | 04/08/2021       | Marta Krawiec   | 41             | F      | London | HGV                  | [Report](https://www.bbc.co.uk/news/uk-england-london-58104440) |       |
+| 65         | 04/08/2021        | 04/08/2021       |                 | 50             | M      | Kent   | ??                   | [Report](https://www.kentonline.co.uk/whitstable/news/cyclist-50-died-at-scene-of-collision-251794/) | No vehicle mentioned in report. |
+| 66         | 07/08/2021        | 09/08/2021       |                 | 53             | F      | Devon  | Car                  | [Report](https://www.bbc.co.uk/news/uk-england-devon-58161759) | Driver arrested - drug driving and serious injury from dangerous driving. |
+| 67         | 10/08/2021        | 10/08/2021       |                 | 70s            | M      | Lancashire | ??               | [Report](https://www.bbc.co.uk/news/uk-england-lancashire-58173429) | No vehicle mentioned in report. |
