@@ -100,7 +100,6 @@ The following page lists cyclists who have lost their lives on UK roads in 2021
 | 61         | 23/07/2021        | 28/07/2021       |                 | 70             | M      | Hampshire | Car               | [Report](https://www.andoveradvertiser.co.uk/news/19479838.andover-cyclist-dies-hospital-b3400-car-collision/) |       |
 | 62         | 28/07/2021        | 28/07/2021       |                 | 40s            | M      | Derbyshire | HGV              | [Report](https://www.derbytelegraph.co.uk/news/local-news/cyclist-dies-lorry-crash-derbyshire-5714805) | Driver arrested - Death by dangerous driving |
 
-
 ### August
 
 | Chronology | Date of collision | Date of fatality | Name of cyclist | Age of cyclist | Gender | Region |Involved vehicle type | News report | Notes |
@@ -113,5 +112,16 @@ The following page lists cyclists who have lost their lives on UK roads in 2021
 | 68         | 15/08/2021        | 21/08/2021       |                 | 56             | M      | Kent   | ??                   | [Report](https://www.kentonline.co.uk/sevenoaks/news/mystery-surrounds-cyclists-death-252755/) | Unknown circumstances. |
 | 69         | 21/08/2021        | 21/08/2021       |                 |                | M      | Devon  | N/A                  | [Report](https://www.itv.com/news/westcountry/2021-08-22/cyclist-found-dead-on-dartmoor-by-unrelated-rescue-operation) | Unknown circumstances. No vehicle involvement. |
 | 70         | 21/08/2021        | 25/08/2021       |                 | 37             | M      | North Yorkshire | Car         | [Report](https://www.bbc.co.uk/news/uk-england-tees-58332612) | Driver arrested for murder. |
-| 71         | 25/08/2021        | 25/08/2021       |                 |                | M      | London | HGV                  | [Report](https://www.standard.co.uk/news/london/harrow-crash-cyclist-dies-lorry-police-appeal-b952358.html) |       |
-| 72         | 28/08/2021        | 28/08/2021       |                 | 48             | M      | Greater Manchester | Car      | [Report](https://www.manchestereveningnews.co.uk/news/greater-manchester-news/cyclist-dies-after-being-hit-21429949) | Hit and run. Driver arrested. |
+| 71         | 23/08/2021        | 23/08/2021       |                 | 74             | ??     | Perthshire | HGV              | [Report](https://www.thescottishsun.co.uk/news/scottish-news/7599394/a85-road-crash-crianlarich/) |       |
+| 72         | 25/08/2021        | 25/08/2021       |                 |                | M      | London | HGV                  | [Report](https://www.standard.co.uk/news/london/harrow-crash-cyclist-dies-lorry-police-appeal-b952358.html) |       |
+| 73         | 28/08/2021        | 28/08/2021       |                 | 48             | M      | Greater Manchester | Car      | [Report](https://www.manchestereveningnews.co.uk/news/greater-manchester-news/cyclist-dies-after-being-hit-21429949) | Hit and run. Driver arrested. |
+| 74         | 29/08/2021        | 29/08/2021       |                 | 78             | M      | Buckinghamshire | Car         | [Report](https://www.bucksfreepress.co.uk/news/19549448.cyclist-dies-a413-amersham-road-gerrards-cross-crash/) | "Silver Mercedes" assumed car. |
+
+### September
+
+| Chronology | Date of collision | Date of fatality | Name of cyclist | Age of cyclist | Gender | Region |Involved vehicle type | News report | Notes |
+|:----------:|:-----------------:|:----------------:|:----------------|:--------------:|:------:|:-------|:--------------------:|:------------|:------|
+| 75         | 03/09/2021        | 03/09/2021       |                 | 60s            | M      | North Yorkshire | (Car)       | [Report](https://yorkmix.com/cyclist-dies-in-crash-at-seaside-resort/) | Cyclist hit parked car |
+| 76         | 08/09/2021        | 08/09/2021       |                 |                | M      | Stirlingshire | Car           | [Report](https://www.dailyrecord.co.uk/news/scottish-news/cyclist-dies-after-being-hit-24940811) |       |
+| 77         | 12/09/2021        | 12/09/2021       | Liam Alexander Finlayson | 35    | M      | Aberdeenshire | ??            | [Report](https://www.eveningexpress.co.uk/fp/news/local/cyclists-dies-after-falling-off-his-bike-on-aberdeenshire-road/) | Suspected hit and run |
+| 78         | 15/09/2021        | 15/09/2021       | Jack            | 19             | M      | Kent   | Bin lorry            | [Report](https://www.kentonline.co.uk/dartford/news/cyclist-dies-in-crash-with-bin-lorry-254066/) |       |
