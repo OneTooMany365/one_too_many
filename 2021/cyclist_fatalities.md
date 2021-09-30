@@ -40,7 +40,7 @@ The following page lists cyclists who have lost their lives on UK roads in 2021
 | 21         | 27/03/2021        | 27/03/2021       |                 |                | M      | Surrey  | ?                   | [Report](https://www.getsurrey.co.uk/news/surrey-news/cyclist-dies-woking-crash-near-20290041) |       |
 | 22         | 29/03/2021        | 29/03/2021       |                 | 30s            | F      | East Sussex | Tipper truck    | [Report](https://www.theargus.co.uk/news/19200929.cyclist-dies-hit-truck-b2188-near-groombridge) |       |
 | 23         | 30/03/2021        | 31/03/2021       |                 | 50s            | F       | London | Car                 | [Report](https://www.getsurrey.co.uk/news/surrey-news/woman-50s-dies-hospital-after-20300905) |       |
-| 24         | 31/03/2021        | 31/03/2021       |                 | 37             | M      | Gwent   | Car                 | [Report](https://www.walesonline.co.uk/news/wales-news/newport-accident-crash-cyclist-fatal-20293781) | Hit and run, driver arrested - Dangerous Driving. |
+| 24         | 31/03/2021        | 31/03/2021       | Matthew Brimble | 37             | M      | Gwent   | Car                 | [Report](https://www.walesonline.co.uk/news/wales-news/newport-accident-crash-cyclist-fatal-20293781) | Hit and run, driver arrested - Dangerous Driving. |
 
 ### April
 
