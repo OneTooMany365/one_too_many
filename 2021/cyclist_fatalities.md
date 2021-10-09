@@ -40,7 +40,7 @@ The following page lists cyclists who have lost their lives on UK roads in 2021
 | 21         | 27/03/2021        | 27/03/2021       |                 |                | M      | Surrey  | ?                   | [Report](https://www.getsurrey.co.uk/news/surrey-news/cyclist-dies-woking-crash-near-20290041) |       |
 | 22         | 29/03/2021        | 29/03/2021       |                 | 30s            | F      | East Sussex | Tipper truck    | [Report](https://www.theargus.co.uk/news/19200929.cyclist-dies-hit-truck-b2188-near-groombridge) |       |
 | 23         | 30/03/2021        | 31/03/2021       |                 | 50s            | F       | London | Car                 | [Report](https://www.getsurrey.co.uk/news/surrey-news/woman-50s-dies-hospital-after-20300905) |       |
-| 24         | 31/03/2021        | 31/03/2021       |                 | 37             | M      | Gwent   | Car                 | [Report](https://www.walesonline.co.uk/news/wales-news/newport-accident-crash-cyclist-fatal-20293781) | Hit and run, driver arrested - Dangerous Driving. |
+| 24         | 31/03/2021        | 31/03/2021       | Matthew Brimble | 37             | M      | Gwent   | Car                 | [Report](https://www.walesonline.co.uk/news/wales-news/newport-accident-crash-cyclist-fatal-20293781) | Hit and run, driver arrested - Dangerous Driving. |
 
 ### April
 
@@ -125,3 +125,16 @@ The following page lists cyclists who have lost their lives on UK roads in 2021
 | 76         | 08/09/2021        | 08/09/2021       |                 |                | M      | Stirlingshire | Car           | [Report](https://www.dailyrecord.co.uk/news/scottish-news/cyclist-dies-after-being-hit-24940811) |       |
 | 77         | 12/09/2021        | 12/09/2021       | Liam Alexander Finlayson | 35    | M      | Aberdeenshire | ??            | [Report](https://www.eveningexpress.co.uk/fp/news/local/cyclists-dies-after-falling-off-his-bike-on-aberdeenshire-road/) | Suspected hit and run |
 | 78         | 15/09/2021        | 15/09/2021       | Jack            | 19             | M      | Kent   | Bin lorry            | [Report](https://www.kentonline.co.uk/dartford/news/cyclist-dies-in-crash-with-bin-lorry-254066/) |       |
+| 79         | 22/09/2021        | 22/09/2021       |                 | 20s            | F      | Bristol | HGV                 | [Report](https://www.bristolpost.co.uk/news/bristol-news/woman-cyclist-dies-collision-hgv-5953747) |       |
+| 80         | 22/09/2021        | 23/09/2021       |                 | 45             | M      | West Yorkshire | SUV          | [Report](https://www.yorkshirepost.co.uk/news/crime/cyclist-dies-after-being-involved-in-crash-in-knottingley-3396287) |       |
+| 81         | 26/09/2021        | 26/09/2021       |                 | 32             | F      | Oxfordshire   | HGV           | [Report](https://www.bbc.co.uk/news/uk-england-oxfordshire-58700189) |       |
+| 82         | 26/09/2021        | 26/09/2021       |                 | 66             | M      | Gwynedd | Bus                 | [Report](https://www.bbc.co.uk/news/uk-wales-58692015) |       |
+| 83         | 27/09/2021        | 27/09/2021       |                 | 77             | M      | Surrey | Car                   | [Report](https://www.bbc.co.uk/news/uk-england-surrey-58716623) | Hit and run |
+
+### October
+
+| Chronology | Date of collision | Date of fatality | Name of cyclist | Age of cyclist | Gender | Region |Involved vehicle type | News report | Notes |
+|:----------:|:-----------------:|:----------------:|:----------------|:--------------:|:------:|:-------|:--------------------:|:------------|:------|
+| 84         | 04/10/2021        | 04/10/2021       |                 | 93             | M      | Kent   | Car                  | [Report](https://www.bbc.co.uk/news/uk-england-kent-58823732) |       |
+| 85         | 06/10/2021        | 06/10/2021       |                 | 40s            | M      | London | Cyclist              | [Report](https://road.cc/content/news/london-cyclist-dies-after-collision-another-rider-286889) | Victim had "medical emergency" after collision with cyclist. |
+| 86         | 07/10/2021        | 07/10/2021       | Anna Garratt-Quinton | 22        | F      | Cambridgeshire | HGV          | [Report](https://www.bbc.co.uk/news/uk-england-cambridgeshire-58842383) | Driver arrested - death by careless or inconsiderate driving. |
