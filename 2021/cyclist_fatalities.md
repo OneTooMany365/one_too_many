@@ -144,13 +144,11 @@ The following page lists cyclists who have lost their lives on UK roads in 2021
 | 90         | 23/10/2021        | 23/10/2021       |                 | ??             | M      | Derbyshire   | N/A            | [Report](https://www.derbytelegraph.co.uk/news/local-news/cyclist-dies-close-peak-district-6107795) | Rider suffered a heart attack. |
 | 91         | 26/10/2021        | 26/10/2021       |                 | 26             | M      | West Sussex  | Car            | [Report](https://www.bbc.co.uk/news/uk-england-sussex-59063801) | 2 arrested - Death by dangerous driving. |
 
-
-
 ### November
 
 | Chronology | Date of collision | Date of fatality | Name of cyclist | Age of cyclist | Gender | Region |Involved vehicle type | News report | Notes |
 |:----------:|:-----------------:|:----------------:|:----------------|:--------------:|:------:|:-------|:--------------------:|:------------|:------|
-| 92         | 01/11/2021        | 01/11/2021       | Chris Mardlin   | 58             | M      | Cambridgeshire | Car                  | [Report](https://www.cambridgeindependent.co.uk/news/cyclist-who-died-after-collision-with-car-in-cambridgeshire-9223859/) | Driver arrested - Death by careless driving, drink driving. |
+| 92         | 01/11/2021        | 01/11/2021       | Chris Mardlin   | 58             | M      | Cambridgeshire | Car          | [Report](https://www.cambridgeindependent.co.uk/news/cyclist-who-died-after-collision-with-car-in-cambridgeshire-9223859/) | Driver arrested - Death by careless driving, drink driving. |
 | 93         | 02/11/2021        | 02/11/2021       |                 |                | M      | Lincolnshire | Van            | [Report](https://thelincolnite.co.uk/2021/11/cyclist-dies-after-crash-with-van-in-north-lincolnshire/) |       |
 | 94         | 06/11/2021        | 07/11/2021       |                 | 58             | M      | Oxfordshire | ??              | [Report](https://www.bbc.co.uk/news/uk-england-oxfordshire-59231700) | Unexplained, found in pub car park. |
 | 95         | 09/11/2021        | 09/11/2021       |                 | 50s            | M      | Hertfordshire | HGV           | [Report](https://www.hertfordshiremercury.co.uk/news/hertfordshire-news/a10-royston-crash-cyclist-dies-6186020) | Driver arrested - Death by careless driving and failing to stop. |
