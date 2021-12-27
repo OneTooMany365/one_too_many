@@ -154,17 +154,23 @@ The following page lists cyclists who have lost their lives on UK roads in 2021
 | 95         | 06/11/2021        | 07/11/2021       |                 | 58             | M      | Oxfordshire | ??              | [Report](https://www.bbc.co.uk/news/uk-england-oxfordshire-59231700) | Unexplained, found in pub car park. |
 | 96         | 09/11/2021        | 09/11/2021       |                 | 50s            | M      | Hertfordshire | HGV           | [Report](https://www.hertfordshiremercury.co.uk/news/hertfordshire-news/a10-royston-crash-cyclist-dies-6186020) | Driver arrested - Death by careless driving and failing to stop. |
 | 97         | 11/11/2021        | 11/11/2021       |                 | 50s            | M      | Hampshire | HGV               | [Report](https://www.dailyecho.co.uk/news/19710067.cyclist-dies-crash-lorry-southampton-docks/) | Driver arrested - Death by dangerous driving. |
-| 98         | 17/11/2021        | 18/11/2021       | Ethan Wright    | 16             | M      | Suffolk | Van                 | [Report](https://www.edp24.co.uk/news/cyclist-dies-in-lowestoft-collision-8504964/) |       |
+| 98         | 15/11/2021        | 15/11/2021       |                 | 30s            | M      | Dorset | Car                  | [Report](https://www.bbc.co.uk/news/uk-england-dorset-59289639/) | Driver arrested - 'Suspicion of driving offence.' |
+| 99         | 17/11/2021        | 18/11/2021       | Ethan Wright    | 16             | M      | Suffolk | Van                 | [Report](https://www.edp24.co.uk/news/cyclist-dies-in-lowestoft-collision-8504964/) |       |
 
 ### December
 
 | Chronology | Date of collision | Date of fatality | Name of cyclist | Age of cyclist | Gender | Region |Involved vehicle type | News report | Notes |
 |:----------:|:-----------------:|:----------------:|:----------------|:--------------:|:------:|:-------|:--------------------:|:------------|:------|
-| 99         | 08/12/2021        | 08/12/2021       |                 | 30s            | M      | Surrey | Car                  | [Report](https://www.mylondon.news/news/south-london-news/cyclist-30s-dies-after-collision-22408474) |       |
-| 100        | 09/12/2021        | 09/12/2021       |                 | 40s            | M      | Gwynedd | Van                 | [Report](https://www.walesonline.co.uk/news/wales-news/cyclist-dies-bangor-crash-van-22413552/) | Driver arrested - Death by careless driving. |
-| 101        | 13/12/2021        | 14/12/2021       |                 | 41             | M      | Nottinghamshire | Car         | [Report](https://www.nottinghampost.com/news/nottingham-news/cyclist-dies-tragic-accident-after-6358149/) |       |
-| 102        | 16/12/2021        | 16/12/2021       |                 |                | ??     | Cheshire | Car                | [Report](https://www.winsfordguardian.co.uk/news/19792191.cyclist-dies-serious-collision-car-middlewich/) |       |
-| 103        | 18/12/2021        | 18/12/2021       |                 |                | M      | Humberside | Car              | [Report](https://planetradio.co.uk/viking/local/news/cyclist-killed-hull-collision/) |       |
-| 104        | 20/12/2021        | 20/12/2021       | Roger Parris    | 63             | M      | Greater Manchester | Car      | [Report](https://www.bbc.co.uk/news/uk-england-merseyside-59736126/) |       |
-| 105        | 22/12/2021        | 22/12/2021       |                 |                | ??     | Lincolnshire | Car            | [Report](https://thelincolnite.co.uk/2021/12/cyclist-dies-after-crash-with-car-in-north-lincolnshire/) |       |
-| 106        | 24/12/2021        | 24/12/2021       |                 | 50s            | M      | Dorset | SUV                  | [Report](https://www.dorset.live/news/dorset-news/cyclist-dies-crash-weymouth-route-6404657) |       |
+| 100        | 08/12/2021        | 08/12/2021       |                 | 30s            | M      | Surrey | Car                  | [Report](https://www.mylondon.news/news/south-london-news/cyclist-30s-dies-after-collision-22408474) |       |
+| 101        | 09/12/2021        | 09/12/2021       |                 | 40s            | M      | Gwynedd | Van                 | [Report](https://www.walesonline.co.uk/news/wales-news/cyclist-dies-bangor-crash-van-22413552/) | Driver arrested - Death by careless driving. |
+| 102        | 12/12/2021        | 12/12/2021       |                 | 17             | M      | Flintshire | ??               | [Report](https://www.deeside.com/appeal-launched-after-teenage-cyclist-killed-in-collision-on-b5441-sealand-road/) |       |
+| 103        | 13/12/2021        | 14/12/2021       |                 | 41             | M      | Nottinghamshire | Car         | [Report](https://www.nottinghampost.com/news/nottingham-news/cyclist-dies-tragic-accident-after-6358149/) |       |
+| 104        | 16/12/2021        | 16/12/2021       |                 |                | ??     | Cheshire | Car                | [Report](https://www.winsfordguardian.co.uk/news/19792191.cyclist-dies-serious-collision-car-middlewich/) |       |
+| 105        | 18/12/2021        | 18/12/2021       |                 |                | M      | Humberside | Car              | [Report](https://planetradio.co.uk/viking/local/news/cyclist-killed-hull-collision/) |       |
+| 106        | 20/12/2021        | 20/12/2021       | Roger Parris    | 63             | M      | Greater Manchester | Car      | [Report](https://www.bbc.co.uk/news/uk-england-merseyside-59736126/) |       |
+| 107        | 22/12/2021        | 22/12/2021       |                 |                | ??     | Lincolnshire | Car            | [Report](https://thelincolnite.co.uk/2021/12/cyclist-dies-after-crash-with-car-in-north-lincolnshire/) |       |
+| 108        | 24/12/2021        | 24/12/2021       |                 | 50s            | M      | Dorset | SUV                  | [Report](https://www.dorset.live/news/dorset-news/cyclist-dies-crash-weymouth-route-6404657) |       |
+
+
+
+
