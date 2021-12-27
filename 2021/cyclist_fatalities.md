@@ -171,7 +171,3 @@ The following page lists cyclists who have lost their lives on UK roads in 2021
 | 107        | 20/12/2021        | 20/12/2021       | Roger Parris    | 63             | M      | Greater Manchester | Car      | [Report](https://www.bbc.co.uk/news/uk-england-merseyside-59736126/) |       |
 | 108        | 22/12/2021        | 22/12/2021       |                 |                | ??     | Lincolnshire | Car            | [Report](https://thelincolnite.co.uk/2021/12/cyclist-dies-after-crash-with-car-in-north-lincolnshire/) |       |
 | 109        | 24/12/2021        | 24/12/2021       |                 | 50s            | M      | Dorset | SUV                  | [Report](https://www.dorset.live/news/dorset-news/cyclist-dies-crash-weymouth-route-6404657) |       |
-
-
-
-
